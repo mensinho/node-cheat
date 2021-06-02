@@ -6,7 +6,7 @@
     "email": "zishon89us@hotmail.com"
   },
   "dependencies": {
-    "ejs": "2.5.7",
+    "ejs": "2.7.4",
     "express": "~3.4.4"
   }
 }
