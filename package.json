@@ -7,7 +7,7 @@
     "@sendgrid/mail": "^6.1.4",
     "acl": "^0.4.11",
     "acl-elasticsearch-backend": "^1.0.5",
-    "adm-zip": "^0.4.7",
+    "adm-zip": "^0.5.5",
     "alfredo": "^0.2.0",
     "arangojs": "^6.4.0",
     "aws-sdk": "^2.2.41",
