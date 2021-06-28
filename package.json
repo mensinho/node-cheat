@@ -58,7 +58,7 @@
     "multer-s3": "^2.7.0",
     "node-cron": "^1.1.2",
     "node-rsa": "^0.3.2",
-    "nodemailer": "^4.6.3",
+    "nodemailer": "^6.6.1",
     "nodemailer-sendgrid-transport": "^0.2.0",
     "pageres": "^4.1.1",
     "pdf-invoice": "^1.0.2",
