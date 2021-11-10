@@ -64,7 +64,7 @@
     "pdf-invoice": "^1.0.2",
     "phonetz": "^1.0.1",
     "probe-image-size": "^1.0.6",
-    "pug": "^2.0.3",
+    "pug": "^3.0.0",
     "read-multiple-files": "^2.0.0",
     "request": "^2.74.0",
     "restify": "^7.1.1",
