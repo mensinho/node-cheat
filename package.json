@@ -9,7 +9,7 @@
     "acl-elasticsearch-backend": "^1.0.5",
     "adm-zip": "^0.4.7",
     "alfredo": "^0.2.0",
-    "arangojs": "^6.4.0",
+    "arangojs": "^8.0.0",
     "aws-sdk": "^2.2.41",
     "axios": "^0.17.1",
     "body-parser": "^1.15.2",
